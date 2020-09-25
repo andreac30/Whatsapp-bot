@@ -53,13 +53,6 @@
 					<key>source</key>
 					<string>on run {input, paremeters}	tell application "WhatsApp"		activate	end tell	repeat 3 times		tell application "System Events"			keystroke "Aggiornato il bot"			key code 36		end tell	end repeatend run</string>
 				</dict>
-				<key>ActionRuntimeParameters</key>
-				<dict>
-					<key>source</key>
-					<string>on run {input, paremeters}	tell application "WhatsApp"		activate	end tell	repeat 3 times		tell application "System Events"			keystroke "Aggiornato il bot"			key code 36		end tell	end repeatend run</string>
-					<key>temporary items path</key>
-					<string>/var/folders/j3/hjvgpk8164qbzj00f3mgcn2m0000gn/T/52597B83-6E1A-40AA-84B3-41037F2EE687/1/com.apple.Automator.RunScript</string>
-				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RunScript</string>
 				<key>CFBundleVersion</key>
